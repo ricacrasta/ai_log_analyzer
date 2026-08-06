@@ -1,0 +1,17 @@
+[
+  {
+    "keyword": "out of memory",
+    "issue": "Application crashed due to memory overload",
+    "fix": "Increase memory or optimize usage"
+  },
+  {
+    "keyword": "connection refused",
+    "issue": "Service not reachable",
+    "fix": "Check server status and ports"
+  },
+  {
+    "keyword": "timeout",
+    "issue": "Request timed out",
+    "fix": "Increase timeout or check network"
+  }
+]
